@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart'; //libreria de disenio de dart
 
 //Punto de acceso de una app flutter
-void Main() => runApp(MaterialApp(
+void main() => runApp(MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Movie App',
       theme: ThemeData.dark(),
